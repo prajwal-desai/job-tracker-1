@@ -27,7 +27,7 @@ Installation & Setup
 
     Clone the repository:
 
-git clone https://github.com/yourusername/job_tracker.git
+git clone https://github.com/prajwal-desai/job_tracker.git
 cd job_tracker
 
 Create and activate a virtual environment:
